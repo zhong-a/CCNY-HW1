@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/hw1.h
+iostream
+-
+cctype
+-
+
+/Users/alan/Desktop/CCNYSummerWork/hw1-basic-cpp-zhong-a/main.cpp
+iostream
+-
+hw1.h
+/Users/alan/Desktop/CCNYSummerWork/hw1-basic-cpp-zhong-a/hw1.h
+

@@ -1,0 +1,13 @@
+/Users/alan/Desktop/CCNYSummerWork/hw1-basic-cpp-zhong-a/build/CMakeFiles/rebuild_cache.dir
+/Users/alan/Desktop/CCNYSummerWork/hw1-basic-cpp-zhong-a/build/CMakeFiles/edit_cache.dir
+/Users/alan/Desktop/CCNYSummerWork/hw1-basic-cpp-zhong-a/build/CMakeFiles/main_executable.o.dir
+/Users/alan/Desktop/CCNYSummerWork/hw1-basic-cpp-zhong-a/build/src/CMakeFiles/rebuild_cache.dir
+/Users/alan/Desktop/CCNYSummerWork/hw1-basic-cpp-zhong-a/build/src/CMakeFiles/edit_cache.dir
+/Users/alan/Desktop/CCNYSummerWork/hw1-basic-cpp-zhong-a/build/src/CMakeFiles/hw1_library.dir
+/Users/alan/Desktop/CCNYSummerWork/hw1-basic-cpp-zhong-a/build/test/CMakeFiles/rebuild_cache.dir
+/Users/alan/Desktop/CCNYSummerWork/hw1-basic-cpp-zhong-a/build/test/CMakeFiles/edit_cache.dir
+/Users/alan/Desktop/CCNYSummerWork/hw1-basic-cpp-zhong-a/build/test/CMakeFiles/runTests.o.dir
+/Users/alan/Desktop/CCNYSummerWork/hw1-basic-cpp-zhong-a/build/test/lib/gtest-1.7.0/CMakeFiles/rebuild_cache.dir
+/Users/alan/Desktop/CCNYSummerWork/hw1-basic-cpp-zhong-a/build/test/lib/gtest-1.7.0/CMakeFiles/edit_cache.dir
+/Users/alan/Desktop/CCNYSummerWork/hw1-basic-cpp-zhong-a/build/test/lib/gtest-1.7.0/CMakeFiles/gtest_main.dir
+/Users/alan/Desktop/CCNYSummerWork/hw1-basic-cpp-zhong-a/build/test/lib/gtest-1.7.0/CMakeFiles/gtest.dir
